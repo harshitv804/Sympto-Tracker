@@ -1,4 +1,4 @@
-# Sympto Tracker - Predcit Disease, Prevent Disease.
+# Sympto Tracker - Predict Disease, Prevent Disease.
 
 <center><img src="https://user-images.githubusercontent.com/100853494/236436577-84e920c1-c6c0-4610-8aea-3b7f004a6dfd.png" width="800" height="auto"></center>
 
